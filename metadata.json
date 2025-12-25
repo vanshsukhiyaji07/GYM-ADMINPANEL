@@ -1,0 +1,8 @@
+
+{
+  "name": "IronCore Gym Admin",
+  "description": "A high-performance full-stack gym management dashboard featuring role-based access control, KPI tracking, member CRUD, and lead management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
